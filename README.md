@@ -9,6 +9,6 @@
   - open Youtube.com
   - play 1st youtube video
   - skipped ad
-  - paused and again played the video
+  - paused and again playing the video
 
 Thank you.
